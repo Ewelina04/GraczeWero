@@ -1,0 +1,2 @@
+# GraczeWero
+Analiza Dane Gracze
